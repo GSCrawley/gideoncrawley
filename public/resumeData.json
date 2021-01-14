@@ -3,7 +3,7 @@
     "name":"Gideon S Crawley",
     "occupation":"Computer Science undergrad Student,",
     "description":"seeking an internship for Summer 2021.",
-    "image":"/public/images/profilepic.jpg",
+    "image":"profilepic.jpg",
     "bio":"",
     "contactmessage":"I'd love to hear from you!",
     "email": "gscrawley@gmail.com",
@@ -137,6 +137,12 @@
         "category":"A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication",
         "image":"game.jpg",
         "url":"http://tetris-auth.web.app/"
+      },
+      {
+        "title":"OmniConnx",
+        "category":"Early MVP for a custom social media site for the Europeean medical community.",
+        "image":"omni.png",
+        "url":"https://omniconnx.herokuapp.com/"
       },
       {
         "title": "Card for Kaleb",
