@@ -20,7 +20,7 @@ class About extends Component {
       <section id="about">
       <div className="row">
          <div className="three columns">
-            <img className="profilepic" src='./images/./profilepic.jpg' alt="Gideon Crawley Profile Pic" />
+            <img className="profilepic" src='./images/profilepic.jpg' alt="Gideon Crawley Profile Pic" />
          </div>
          <div className="nine columns main-col">
             <h2>About Me</h2>
