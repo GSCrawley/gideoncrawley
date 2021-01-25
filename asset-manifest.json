@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gideoncrawley/static/css/main.bab0b925.chunk.css",
+    "main.js": "/gideoncrawley/static/js/main.7e5fae75.chunk.js",
+    "main.js.map": "/gideoncrawley/static/js/main.7e5fae75.chunk.js.map",
+    "runtime-main.js": "/gideoncrawley/static/js/runtime-main.c508935c.js",
+    "runtime-main.js.map": "/gideoncrawley/static/js/runtime-main.c508935c.js.map",
+    "static/js/2.24e2d2f5.chunk.js": "/gideoncrawley/static/js/2.24e2d2f5.chunk.js",
+    "static/js/2.24e2d2f5.chunk.js.map": "/gideoncrawley/static/js/2.24e2d2f5.chunk.js.map",
+    "index.html": "/gideoncrawley/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/gideoncrawley/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.24e2d2f5.chunk.js.LICENSE.txt": "/gideoncrawley/static/js/2.24e2d2f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c508935c.js",
+    "static/js/2.24e2d2f5.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.7e5fae75.chunk.js"
+  ]
+}

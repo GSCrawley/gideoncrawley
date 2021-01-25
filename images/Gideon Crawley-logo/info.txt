@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Aladin-Regular
+font link: https://fonts.google.com/specimen/Aladin
+font author: Sudtipos
+font author site: https://www.sudtipos.com/
+
+
+icon designer: Symbolon
+icon designer link: /symbolon
+        
+{"bg":"#FAF1EE","icon-gradient-0":"#B82949","icon-gradient-1":"#E9B84C","font":"#2F1911","slogan":"#432d25"}
+      
