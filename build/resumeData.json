@@ -1,0 +1,203 @@
+{
+  "main": {
+    "name":"Gideon S Crawley",
+    "occupation":"Computer Science undergrad Student,",
+    "description":"seeking an internship for Summer 2021.",
+    "image":"./images/./profilepic.jpg",
+    "bio":"",
+    "contactmessage":"I'd love to hear from you!",
+    "email": "gscrawley@gmail.com",
+    "phone": "646-667-5520",
+    "address":{                                                                                                                        
+      "street":"851 California St",      
+      "city":"San Francisco",
+      "state":"CA",
+      "zip": "94108"
+    },
+    "resumedownload":"https://docs.google.com/document/d/1Z5XuM00bm4The3Zt7uv3SnZSC37MIBCErrDgH8s0GVQ/edit?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/gscrawley/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/gscrawley",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gscrawley/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/universalcitizen",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/GSCrawley",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Make School, San Francisco",
+        "degree":"Bachelor's in Computer Scienc",
+        "graduated":"August 2021",
+        "description":"I'm currently a full-time undergrad student at Make School, pursuing my Bachelor's degree in full-stack engineering. Make School prepares students for work in the Tech Industry by teaching us to work collaboratively, with a strong emphasis on Product Development and UX."      
+        },
+      {
+        "school":"CÉGEP Vanier, Montreal",
+        "degree":"Communications: Arts, Media, Theater",
+        "graduated":"1994",
+        "description":"Majored in Analog Photography and Theater Arts."
+      }
+    ],
+    "work":[
+      {
+        "company":"Various temp, gig, and freelance roles",
+        "title":"Web Developer / Musician / Delivery Driver",
+        "years":"2010 - Present",
+        "description":"Supported myself playing music and working in the gig economy, delivering for Doordash, Caviar, Uber Eats."
+      },
+      {
+        "company":"SANS Consulting Services, Inc, New York City",
+        "title":"Mid-level Technical Recruiter",
+        "years":"2004 - 2010",
+        "description":"Recruited IT professionals for major investment banks; performed extensive research, interviews and testing to find the right candidates qualified to match our clients' job requirements."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"95%"
+      },
+      {
+        "name":"CSS",
+        "level":"95%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"85%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      },
+      {
+        "name":"Django",
+        "level":"50%"
+      },
+      {
+        "name":"Redux",
+        "level":"45%"
+      },
+      {
+        "name":"Typescript",
+        "level":"40%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"40%"
+      },
+                                                                                                                                                                                                                                                                                                              
+      {
+        "name":"Jinja",
+        "level":"38%"
+      },
+      {
+        "name":"Flask",
+        "level":"36%"
+      },
+      {
+        "name":"Amazon Web Services",
+        "level":"32%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Redux Tetris",
+        "category":"A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication",
+        "image":"game.jpg",
+        "url":"http://tetris-auth.web.app/"
+      },
+      {
+        "title":"OmniConnx",
+        "category":"Early MVP for a custom social media site for the Europeean medical community.",
+        "image":"omni.png",
+        "url":"https://omniconnx.herokuapp.com/"
+      },
+      {
+        "title": "Card for Kaleb",
+        "category": "Gideon getting in some rare Uncle Time with 2-year old Kaleb, NYC 2013",
+        "image": "./cardfront.jpg",
+        "url": "https://gscrawley.github.io/forKaleb/ "
+      },  
+      {
+        "title":"Leah & the Infinite Loop",
+        "category":"Personal Website I designed for a friend, using HTML, CSS, and Bootstrap",
+        "image":"./Leah.png",
+        "url":"https://gscrawley.github.io/Leah/"
+      },                                                                                                                      
+      {
+        "title":"A Colorful Breakout Game",
+        "category":"A breakout game in JavaScript; with complimentary colors aquired from random colors",
+        "image":"./Breakout.png",
+        "url":"http://gscrawley.github.io/breakout/dist"
+      },
+      {
+        "title":"My Open Mic",
+        "category":"A site for amateur musicians to post videos of their performances; backend built in Python, front-end HTML5 and CSS.",
+        "image":"./MyOpenMic.png",
+        "url":"http://myopenmic-gsc.herokuapp.com/"
+      },
+      {
+        "title":"Rock Star Trivia",
+        "category":"A short visual quiz built using Vanilla JavaScript, HTML5 and CSS.",
+        "image":"./rockstartrivia.png",
+        "url":"http://gscrawley.github.io/visual_quiz/"
+      },
+      {
+        "title":"10% Velcro",
+        "category":"I built this website for a friend and her band, using HTML, CSS and Bootstrap.",
+        "image":"./velcro.png",
+        "url":"https://gscrawley.github.io/velcro/"
+      },
+      {
+        "title":"Stylin Stylesheet",
+        "category":"A rudimentary CSS stylesheet built using SASS and including every generic component used in a website",
+        "image":"./stylesheet.jpg",
+        "url":"http://gscrawley.github.io/stylin_styles/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I’ve had the pleasure of working very closely with Gideon when he joined us at Sans Consulting. Gideon came into the industry very raw but was a fast learner and quickly became a key asset to our company in no time at all. Gideon has great work ethics and will do whatever it takes to get the job done. Any company would be lucky to have Gideon as a part of their team.",
+        "user":"Daniel Chechile, Talent Acquisition Manager @ SANS Consulting Services, Inc"
+      },
+      {
+        "text":"Gideon? Oy Vayz mir",
+        "user":"Judith, Gideon's Mom"
+      }
+    ]
+  }
+}
