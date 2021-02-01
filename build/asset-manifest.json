@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gideoncrawley/static/css/main.bab0b925.chunk.css",
-    "main.js": "/gideoncrawley/static/js/main.b75ac45a.chunk.js",
-    "main.js.map": "/gideoncrawley/static/js/main.b75ac45a.chunk.js.map",
-    "runtime-main.js": "/gideoncrawley/static/js/runtime-main.455f1ff8.js",
-    "runtime-main.js.map": "/gideoncrawley/static/js/runtime-main.455f1ff8.js.map",
-    "static/js/2.b761b805.chunk.js": "/gideoncrawley/static/js/2.b761b805.chunk.js",
-    "static/js/2.b761b805.chunk.js.map": "/gideoncrawley/static/js/2.b761b805.chunk.js.map",
-    "index.html": "/gideoncrawley/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/gideoncrawley/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.b761b805.chunk.js.LICENSE.txt": "/gideoncrawley/static/js/2.b761b805.chunk.js.LICENSE.txt"
+    "main.css": "/gideoncrawley.me/static/css/main.bab0b925.chunk.css",
+    "main.js": "/gideoncrawley.me/static/js/main.2e7d17f3.chunk.js",
+    "main.js.map": "/gideoncrawley.me/static/js/main.2e7d17f3.chunk.js.map",
+    "runtime-main.js": "/gideoncrawley.me/static/js/runtime-main.0cbe090d.js",
+    "runtime-main.js.map": "/gideoncrawley.me/static/js/runtime-main.0cbe090d.js.map",
+    "static/js/2.b761b805.chunk.js": "/gideoncrawley.me/static/js/2.b761b805.chunk.js",
+    "static/js/2.b761b805.chunk.js.map": "/gideoncrawley.me/static/js/2.b761b805.chunk.js.map",
+    "index.html": "/gideoncrawley.me/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/gideoncrawley.me/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.b761b805.chunk.js.LICENSE.txt": "/gideoncrawley.me/static/js/2.b761b805.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.455f1ff8.js",
+    "static/js/runtime-main.0cbe090d.js",
     "static/js/2.b761b805.chunk.js",
     "static/css/main.bab0b925.chunk.css",
-    "static/js/main.b75ac45a.chunk.js"
+    "static/js/main.2e7d17f3.chunk.js"
   ]
 }
