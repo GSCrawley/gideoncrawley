@@ -1,18 +1,20 @@
 {
-  "homepage": "https://gscrawley.github.io/gideoncrawley/",
+  "homepage": "https://gscrawley.github.io/gideoncrawley",
   "name": "gideoncrawley",
   "CNAME": "gideoncrawley.me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4", 
+    "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "jquery": "^3.5.1",
+    "html-webpack-plugin": "^4.0.0-alpha.2",
+    "jquery": "^3.6.0",
+    "jQuery": "^1.7.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-ga": "^3.3.0",
-    "react-scripts": "4.0.1",
+    "react-scripts": "^2.1.8",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
