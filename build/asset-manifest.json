@@ -1,20 +1,13 @@
 {
-  "files": {
-    "main.css": "/gideoncrawley/static/css/main.bab0b925.chunk.css",
-    "main.js": "/gideoncrawley/static/js/main.b75ac45a.chunk.js",
-    "main.js.map": "/gideoncrawley/static/js/main.b75ac45a.chunk.js.map",
-    "runtime-main.js": "/gideoncrawley/static/js/runtime-main.455f1ff8.js",
-    "runtime-main.js.map": "/gideoncrawley/static/js/runtime-main.455f1ff8.js.map",
-    "static/js/2.b761b805.chunk.js": "/gideoncrawley/static/js/2.b761b805.chunk.js",
-    "static/js/2.b761b805.chunk.js.map": "/gideoncrawley/static/js/2.b761b805.chunk.js.map",
-    "index.html": "/gideoncrawley/index.html",
-    "static/css/main.bab0b925.chunk.css.map": "/gideoncrawley/static/css/main.bab0b925.chunk.css.map",
-    "static/js/2.b761b805.chunk.js.LICENSE.txt": "/gideoncrawley/static/js/2.b761b805.chunk.js.LICENSE.txt"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.455f1ff8.js",
-    "static/js/2.b761b805.chunk.js",
-    "static/css/main.bab0b925.chunk.css",
-    "static/js/main.b75ac45a.chunk.js"
-  ]
+  "main.css": "/gideoncrawley/static/css/main.07318036.chunk.css",
+  "main.js": "/gideoncrawley/static/js/main.8c952296.chunk.js",
+  "main.js.map": "/gideoncrawley/static/js/main.8c952296.chunk.js.map",
+  "runtime~main.js": "/gideoncrawley/static/js/runtime~main.8cc662e4.js",
+  "runtime~main.js.map": "/gideoncrawley/static/js/runtime~main.8cc662e4.js.map",
+  "static/js/2.64c17f8e.chunk.js": "/gideoncrawley/static/js/2.64c17f8e.chunk.js",
+  "static/js/2.64c17f8e.chunk.js.map": "/gideoncrawley/static/js/2.64c17f8e.chunk.js.map",
+  "index.html": "/gideoncrawley/index.html",
+  "precache-manifest.d134e11e8330ecdbc82cbcd42a55acee.js": "/gideoncrawley/precache-manifest.d134e11e8330ecdbc82cbcd42a55acee.js",
+  "service-worker.js": "/gideoncrawley/service-worker.js",
+  "static/css/main.07318036.chunk.css.map": "/gideoncrawley/static/css/main.07318036.chunk.css.map"
 }
