@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Gideon S Crawley",
-    "occupation":"Computer Science undergrad Student,",
-    "description":"seeking an internship for Summer 2021.",
-    "image":"./images/./profilepic.jpg",
+    "occupation":"Full-Stack Engineer specializing in front-end web design,",
+    "description":"seeking an internship or f/t role for Fall 2021.",
+    "image":"./images/./profilepic.jpg", 
     "bio":"",
     "contactmessage":"I'd love to hear from you!",
     "email": "gscrawley@gmail.com",
