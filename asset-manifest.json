@@ -1,13 +1,4 @@
 {
-  "main.css": "/gideoncrawley/static/css/main.07318036.chunk.css",
-  "main.js": "/gideoncrawley/static/js/main.5251ed7b.chunk.js",
-  "main.js.map": "/gideoncrawley/static/js/main.5251ed7b.chunk.js.map",
-  "runtime~main.js": "/gideoncrawley/static/js/runtime~main.8cc662e4.js",
-  "runtime~main.js.map": "/gideoncrawley/static/js/runtime~main.8cc662e4.js.map",
-  "static/js/2.64c17f8e.chunk.js": "/gideoncrawley/static/js/2.64c17f8e.chunk.js",
-  "static/js/2.64c17f8e.chunk.js.map": "/gideoncrawley/static/js/2.64c17f8e.chunk.js.map",
-  "index.html": "/gideoncrawley/index.html",
-  "precache-manifest.c91ead9940afd3795025b5547e970751.js": "/gideoncrawley/precache-manifest.c91ead9940afd3795025b5547e970751.js",
-  "service-worker.js": "/gideoncrawley/service-worker.js",
-  "static/css/main.07318036.chunk.css.map": "/gideoncrawley/static/css/main.07318036.chunk.css.map"
+  "main.js": "static/js/main.d354703d.js",
+  "main.js.map": "static/js/main.d354703d.js.map"
 }
