@@ -11,7 +11,7 @@ class Portfolio extends Component {
             <a href={projects.url} title={projects.title}>
                <img alt={projects.title} src={projectImage} />
                <div className="overlay">
-                  <div className="portfolio-item-meta">
+                  <div className="portfolio-item-meta" >
                  <h5>{projects.title}</h5>
                      <p>{projects.category}</p>
                   </div>
