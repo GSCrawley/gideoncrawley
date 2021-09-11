@@ -646,7 +646,8 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   /* url(../images/testimonials-bg.jpg) no-repeat center center; */ 
+   background: #1F1F1F;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
