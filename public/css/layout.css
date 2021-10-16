@@ -499,11 +499,13 @@ ul#nav li.current a { color: #FFF; }
    font: 14px/21px 'opensans-bold', sans-serif;
    color: #fff;
 }
-.portfolio-item .portfolio-item-meta p {
+.portfolio-item .portfolio-item-meta  {
    font: 13px/19px 'opensans-bold',sans-serif;
    color: red;
+   /* margin-top: 8rem; */
    margin-bottom: 0;
    content:all;
+   overflow:visible;
 }
 
 /* on hover */
@@ -524,17 +526,17 @@ ul#nav li.current a { color: #FFF; }
 	background: #fff;
 	position: relative;
 	margin: 0 auto;
+   margin-bottom: 10px
 }
-.popup-modal .description-box { padding: 12px 36px 18px 36px; }
+.popup-modal .description-box { padding: 6px 12px 9px 6px; }
 .popup-modal .description-box h4 {
    font: 15px/24px 'opensans-bold', sans-serif;
-	margin-bottom: 12px;
    color: #111;
 }
 .popup-modal .description-box p {
 	font: 14px/24px 'opensans-regular', sans-serif;
    color: #A1A1A1;
-   margin-bottom: 12px;
+   /* margin-top: -12px; */
 }
 .popup-modal .description-box .categories {
    font: 11px/21px 'opensans-light', sans-serif;
