@@ -188,14 +188,8 @@
         "url":"http://gscrawley.github.io/stylin_styles/"
       },
       {
-        "title": "Pet Breeds",
-        "category": "A list of cat and dog breeds and their respective attributes, using React Native's tab navigator to switch from cats to dogs, and stack navigator for breed names and details ",
-        "image":"./PetBreedsCover.png",
-        "url":"exp://exp.host/@gcrawley/tab_nav_pets"
-      },
-      {
         "title":"Whack-a-Troll! (MVP)",
-        "category":"To play the game, use your camera's QR Scanner to to scan the code",
+        "category":"To play the game, use your camera, QR Scanner to to scan the code",
         "image": "./whackatroll.png",
         "url": "https://expo.dev/@gcrawley/whackamole"
       }
