@@ -31,18 +31,18 @@ class Resume extends Component {
          </div>
 
          <div className="nine columns main-col">
-            <div className="row item">
                <div className="twelve columns">
                  {education}
                </div>
-            </div>
+            
          </div>
       </div>
 
 
       <div className="row work">
 
-         <div className="three columns header-col">
+         <div className="three columns he,
+         r                    gggtader-col">
             <h1><span>Work</span></h1>
          </div>
 
