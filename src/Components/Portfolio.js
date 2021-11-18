@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import './portfolio.css'
 
 class Portfolio extends Component {
   render() {
@@ -8,7 +8,7 @@ class Portfolio extends Component {
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = './images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
-           <div className="item-wrap"  style={projects.style}>
+           <div className="item-wrap"  style={projects.style} id={projects.id}>
             <a href={projects.url} title={projects.title}>
                <img alt={projects.title} src={projectImage} />
                <div className="overlay">

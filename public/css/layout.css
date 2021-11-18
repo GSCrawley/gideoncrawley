@@ -448,6 +448,9 @@ ul#nav li.current a { color: #FFF; }
    cursor: pointer;
 }
 
+.portfolio-item#Whack .item-wrap  {
+   margin-left: -250px
+}
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
