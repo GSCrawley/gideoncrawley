@@ -1,13 +1,13 @@
 {
   "main": {
     "name":"Gideon S Crawley",
-    "occupation":"Full-Stack Engineer specializing in front-end web design,",
-    "description":"seeking an internship or f/t role for Fall 2021.",
+    "occupation":"Full-Stack Engineer specializing in front-end web design.",
+    "description":"I'm currently available for remote contract opportunities only",
     "image":"./images/./profilepic.jpg", 
     "bio":"",
     "contactmessage":"I'd love to hear from you!",
     "email": "gscrawley@gmail.com",
-    "phone": "646-667-5520",
+    "phone": "628-276-2109",
     "address":{                                                                                                                        
       "street":"851 California St",      
       "city":"San Francisco",
@@ -47,15 +47,14 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"Make School, San Francisco",
-        "degree":"Bachelor's in Computer Scienc",
+        "school":"Dominican University of California, San Francisco",
+        "degree":"Bachelor's in Computer Science",
         "graduated":"August 2021",
-        "description":"I'm currently a full-time undergrad student at Make School, pursuing my Bachelor's degree in full-stack engineering. Make School prepares students for work in the Tech Industry by teaching us to work collaboratively, with a strong emphasis on Product Development and UX."      
+        "description":"I'm currently a full-time undergrad student at DU's Make School program, pursuing my Bachelor's degree in full-stack engineering. Make School prepares students for work in the Tech Industry by teaching us to work collaboratively, with a strong emphasis on Product Development and UX."      
         },
       {
         "school":"CÉGEP Vanier, Montreal",
         "degree":"Communications: Arts, Media, Theater",
-        "graduated":"1994",
         "description":"Majored in Analog Photography and Theater Arts."
       }
     ],
@@ -133,58 +132,82 @@
   "portfolio":{
     "projects": [
       {
+        "id":"tetris",
         "title":"Redux Tetris",
         "category":"A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication",
         "image":"game.jpg",
         "url":"http://tetris-auth.web.app/"
       },
-      {
+      { "id":"omni",
         "title":"OmniConnx",
         "category":"Early MVP for a custom social media site for the Europeean medical community.",
         "image":"omni.png",
         "url":"https://omniconnx.herokuapp.com/"
       },
       {
+        "id":"Kaleb",
         "title": "Card for Kaleb",
         "category": "Gideon getting in some rare Uncle Time with 2-year old Kaleb, NYC 2013",
         "image": "./cardfront.jpg",
         "url": "https://gscrawley.github.io/forKaleb/ "
       },  
       {
+        "id":"Leah",
         "title":"Leah & the Infinite Loop",
         "category":"Personal Website I designed for a friend, using HTML, CSS, and Bootstrap",
         "image":"./Leah.png",
         "url":"https://gscrawley.github.io/Leah/"
       },                                                                                                                      
       {
+        "id":"break",
         "title":"A Colorful Breakout Game",
         "category":"A breakout game in JavaScript; with complimentary colors aquired from random colors",
         "image":"./Breakout.png",
         "url":"http://gscrawley.github.io/breakout/dist"
       },
+      
       {
+        "id":"open",
         "title":"My Open Mic",
         "category":"A site for amateur musicians to post videos of their performances; backend built in Python, front-end HTML5 and CSS.",
         "image":"./MyOpenMic.png",
         "url":"http://myopenmic-gsc.herokuapp.com/"
       },
       {
+        "id":"trivia",
         "title":"Rock Star Trivia",
         "category":"A short visual quiz built using Vanilla JavaScript, HTML5 and CSS.",
         "image":"./rockstartrivia.png",
         "url":"http://gscrawley.github.io/visual_quiz/"
       },
+      
       {
+        "id":"Velcro",
         "title":"10% Velcro",
         "category":"I built this website for a friend and her band, using HTML, CSS and Bootstrap.",
         "image":"./velcro.png",
         "url":"https://gscrawley.github.io/velcro/"
       },
       {
+        "id":"Stylin",
         "title":"Stylin Stylesheet",
         "category":"A rudimentary CSS stylesheet built using SASS and including every generic component used in a website",
         "image":"./stylesheet.jpg",
         "url":"http://gscrawley.github.io/stylin_styles/"
+      },
+      {
+        "id":"Whack",
+        "title":"WhackAMole",
+        "category":"To play the game, use your camera, QR Scanner to to scan the code",
+        "image": "./whackatroll.png",
+        "url": "https://expo.dev/@gcrawley/whackamole"
+      },
+      {
+      "id":"Breeds",
+      "title":"Pet Breeds",
+      "category": "A list of the different cat and dog breeds with details",
+      "image": "./PetBreedsCover.png",
+      "url":"https://expo.dev/@gcrawley/tab_nav_pets"
       }
     ]
   },
