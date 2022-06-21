@@ -431,7 +431,7 @@ ul#nav li.current a { color: #FFF; }
 }
 
 /* Portfolio Content */
-#portfolio-wrapper .columns { margin-bottom: 36px; }
+#portfolio-wrapper .columns { margin-bottom: 5px; }
 .portfolio-item .item-wrap {
    background: #fff;
    overflow: hidden;
@@ -448,28 +448,28 @@ ul#nav li.current a { color: #FFF; }
    cursor: pointer;
 }
 
-.item-wrap #break {
-   margin-top: -40px;
+/* .portfolio-item .item-wrap #break {
+   margin-top: -20px;
 }
-.item-wrap #Stylin {
-   margin-top: -35px;
-}
-.item-wrap #open {
+.portfolio-item 
+.portfolio-item .item-wrap #open {
    margin-top: -20px;
 }
 
-.item-wrap #trivia #Velcro {
+.portfolio-item .item-wrap #trivia #Velcro {
    margin-top: -100px;
 }
 
-.item-wrap #Whack {
+.portfolio-item .item-wrap #Whack {
    margin-top: -25px;
 }
-.item-wrap #Breeds {
-   margin-top: -50px;
+.portfolio-item .item-wrap #Breeds {
+   margin-top: -50px; */
+/* } */
+
+#Stylin {
+   margin-top: -90px;
 }
-
-
 /* overlay */
 .portfolio-item .item-wrap .overlay {
    position: absolute;
