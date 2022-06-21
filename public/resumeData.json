@@ -1,13 +1,8 @@
 {
   "main": {
     "name":"Gideon S Crawley",
-<<<<<<< HEAD
-    "occupation":"Engineer specializing in front-end web design.",
-    "description":"I'm currently available for full-time or contract opportunities, remote or onsite ",
-=======
     "occupation":"Software Engineer specializing in front-end web design and mobile applications.",
     "description":"Available for full-time or contract opportunities, remote or on-site, open to relocation",
->>>>>>> 2c10a14bd40d41261c841e8113c14a837a627e78
     "image":"./images/./profilepic.jpg", 
     "bio":"",
     "contactmessage":"I'd love to hear from you!",
