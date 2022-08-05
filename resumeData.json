@@ -14,7 +14,7 @@
       "state":"CA",
       "zip": "94108"
     },
-    "resumedownload":"https://docs.google.com/document/d/1uYpGzKFQ7403FXqhM2TdRTis9yN_TB5l3_8ICKeCtAc/edit?usp=sharing",
+    "resumedownload":"https://docs.google.com/document/d/1_nplGJG6p7lu1yQXMy-dNZF-TirLBRYF474zSUhA4ho/edit?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -45,12 +45,12 @@
   },
   "resume":{
     "skillmessage":"",
-    "education":[
+    "education":[                                                                                                                                        
       {
         "school":"Dominican University of California, San Francisco",
         "degree":"Bachelor's in Computer Science",
-        "graduated":"August 2021",
-        "description":"I'm currently a full-time undergrad student at DU's Make School program, pursuing my Bachelor's degree in full-stack engineering. Make School prepares students for work in the Tech Industry by teaching us to work collaboratively, with a strong emphasis on Product Development and UX."      
+        "graduated":"May 2022",
+        "description":"An accelerated Bachelor's degree program in which students prepare for work in the Tech Industry by learning to work collaboratively, with a strong emphasis on Product Development and UX."      
         },
       {
         "school":"CÉGEP Vanier, Montreal",
