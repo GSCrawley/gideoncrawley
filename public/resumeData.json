@@ -130,13 +130,27 @@
     ]
   },
   "portfolio":{
-    "projects": [
+    "codeProjects": [
       {
         "id":"tetris",
         "title":"Redux Tetris",
-        "category":"A simple Tetris grid puzzle game I built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication",
+        "category":"A simple Tetris grid puzzle game built using React with Redux to map state. Hosted on Firebase and using Firebase API for User Authentication",
         "image":"game.jpg",
         "url":"http://tetris-auth.web.app/"
+      },
+      {
+        "id":"break",
+        "title":"A Colorful Breakout Game",
+        "category":"A breakout game in JavaScript; with complimentary colors acquired from random colors",
+        "image":"./Breakout.png",
+        "url":"http://gscrawley.github.io/breakout/dist"
+      },
+      {
+        "id":"trivia",
+        "title":"Rock Star Trivia",
+        "category":"A short visual quiz built using Vanilla JavaScript, HTML5 and CSS.",
+        "image":"./rockstartrivia.png",
+        "url":"http://gscrawley.github.io/visual_quiz/"
       },
       { "id":"omni",
         "title":"OmniConnx",
@@ -159,41 +173,11 @@
         "url":"https://gscrawley.github.io/Leah/"
       },                                                                                                                      
       {
-        "id":"break",
-        "title":"A Colorful Breakout Game",
-        "category":"A breakout game in JavaScript; with complimentary colors aquired from random colors",
-        "image":"./Breakout.png",
-        "url":"http://gscrawley.github.io/breakout/dist"
-      },
-      
-      {
         "id":"open",
         "title":"My Open Mic",
         "category":"A site for amateur musicians to post videos of their performances; backend built in Python, front-end HTML5 and CSS.",
         "image":"./MyOpenMic.png",
         "url":"http://myopenmic-gsc.herokuapp.com/"
-      },
-      {
-        "id":"trivia",
-        "title":"Rock Star Trivia",
-        "category":"A short visual quiz built using Vanilla JavaScript, HTML5 and CSS.",
-        "image":"./rockstartrivia.png",
-        "url":"http://gscrawley.github.io/visual_quiz/"
-      },
-      
-      {
-        "id":"Velcro",
-        "title":"10% Velcro",
-        "category":"I built this website for a friend and her band, using HTML, CSS and Bootstrap.",
-        "image":"./velcro.png",
-        "url":"https://gscrawley.github.io/velcro/"
-      },
-      {
-        "id":"Stylin",
-        "title":"Stylin Stylesheet",
-        "category":"A rudimentary CSS stylesheet built using SASS and including every generic component used in a website",
-        "image":"./stylesheet.jpg",
-        "url":"http://gscrawley.github.io/stylin_styles/"
       },
       {
         "id":"Whack",
@@ -208,6 +192,53 @@
       "category": "A list of the different cat and dog breeds with details",
       "image": "./PetBreedsCover.png",
       "url":"https://expo.dev/@gcrawley/tab_nav_pets"
+      },
+      {
+        "id":"Stylin",
+        "title":"Stylin Stylesheet",
+        "category":"A rudimentary CSS stylesheet built using SASS and including every generic component used in a website",
+        "image":"./stylesheet.jpg",
+        "url":"http://gscrawley.github.io/stylin_styles/"
+      },
+      {
+        "id":"Velcro",
+        "title":"10% Velcro",
+        "category":"I built this website for a friend and her band, using HTML, CSS and Bootstrap.",
+        "image":"./velcro.png",
+        "url":"https://gscrawley.github.io/velcro/"
+      }
+    ]
+  },
+  "videos": {
+    "videos": [
+      {
+        "title": "Sample Video Title",
+        "description": "Add your video description here",
+        "url": "https://www.youtube.com/embed/your-video-id"
+      }
+    ]
+  },
+  "blog": {
+    "posts": [
+      {
+        "title": "Sample Blog Post",
+        "date": "February 18, 2024",
+        "excerpt": "A brief excerpt from your blog post that gives readers a preview of the content...",
+        "url": "link-to-your-blog-post",
+        "thumbnail": "post-thumbnail.jpg",
+        "tags": ["tech", "web-development"]
+      }
+    ]
+  },
+  "presentations": {
+    "presentations": [
+      {
+        "title": "Sample Presentation Title",
+        "venue": "Conference/Event Name",
+        "date": "2024",
+        "description": "Add your presentation description here",
+        "url": "link-to-your-presentation",
+        "image": "presentation-thumbnail.jpg"
       }
     ]
   },
